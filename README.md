@@ -13,5 +13,5 @@ The speed and accuracy of the method compares favorably to other programs and it
 A demo server for testing purposes is available in <a href="http://pongor.itk.ppke.hu/taxoner/">here</a> 
 
 ----
-This repository is a customized version for use with the PATRIC database of bacterial genomes (www.patricbrc.org)
+This repository is a customized version for use with the PATRIC database of bacterial genomes (www.patricbrc.org).
 It also includes the capability to supply extra commands to the bowtie2 program within taxoner (see ./taxoner64v1.4/taxoner64_manual.txt)
