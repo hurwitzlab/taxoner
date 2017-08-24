@@ -1,0 +1,16 @@
+@testread
+gatcatcttgctggttcccgggccgccgagccagagcggcgttccatcgaccagccagccggcgaaaccgccctggcgcgcctgcgggtcatggtcgtcgagcc
++
+abcdefghijklmnopqrstuvwxyz{|}~abcdefghijklmnopqrstuvwxyz{|}~abcdefghijklmnopqrstuvwxyz{|}~abcdefghijklmn
+@testread2
+gatcatcttgctggttcccgggccgccgagccagagcggcgttccatcgaccagccagccggcgaaaccgccctgacgcgcctgcgggtcatggtcgtcgagcc
++
+abcdefghijklmnopqrstuvwxyz{|}~abcdefghijklmnopqrstuvwxyz{|}~abcdefghijklmnopqrstuvwxyz{|}~abcdefghijklmn
+@testread3
+gatcatcttgctggttcccgggccgccgagcttgagcggcgttccatcgaccagccagccggcgaaaccgccctggcgcgcctgcgggtcatggtcgtcgagcc
++
+abcdefghijklmnopqrstuvwxyz{|}~abcdefghijklmnopqrstuvwxyz{|}~abcdefghijklmnopqrstuvwxyz{|}~abcdefghijklmn
+@testread4
+gatcatcttgctggttcccgggccgccgagccagagcggcgttccatcgaccagccagccggcgaaggcgccctggcgcgcctgcgggtcatggtcgtcgagcc
++
+abcdefghijklmnopqrstuvwxyz{|}~abcdefghijklmnopqrstuvwxyz{|}~abcdefghijklmnopqrstuvwxyz{|}~abcdefghijklmn
