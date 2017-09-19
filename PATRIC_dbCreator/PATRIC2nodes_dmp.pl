@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 use strict; use warnings;
 
 my %parent = (); #stores parent taxon ID

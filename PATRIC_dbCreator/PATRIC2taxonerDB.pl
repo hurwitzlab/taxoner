@@ -1,3 +1,5 @@
+#!/usr/bin/env perl
+
 use strict; use warnings;
 use Cwd;
 use Cwd 'abs_path';
