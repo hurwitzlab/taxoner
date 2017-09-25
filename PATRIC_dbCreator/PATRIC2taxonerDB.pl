@@ -164,9 +164,10 @@ sub ImportIDs {
 }
 
 sub GetFastaFiles {
-	my $folder = $abs_path."/".$argu;
+#	my $folder = $abs_path."/".$argu;
 	print "Getting fasta file paths\n";
-	chdir($folder);
+#	chdir($folder);
+	chdir($argu);
 	system("find -follow | grep \".fna\" > $abs_path/fasta_files.txt");
 	print "Finished seaching for fasta files\n";
 	chdir($abs_path);
